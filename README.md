@@ -1,4 +1,4 @@
-# vuebase
+# vuebase v0.1
 a basic firebase plugin for vue
 ***
 
